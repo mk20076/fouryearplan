@@ -1,0 +1,25 @@
+{
+  "name": "4yearplanner-backend",
+  "version": "1.0.0",
+  "description": "backend for 4-year-planner",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceydat709/4YearPlanner-Backend.git"
+  },
+  "author": "Savannah Lyles and Ceyda Topcu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ceydat709/4YearPlanner-Backend/issues"
+  },
+  "homepage": "https://github.com/ceydat709/4YearPlanner-Backend#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "http": "^0.0.1-security"
+  }
+}
